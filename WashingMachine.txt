@@ -1,0 +1,65 @@
+class WashingMachine{
+static void steamPower(){;
+System.out.println("WashingMachine functionality steamPower");
+}
+static void wash(){;
+System.out.println("WashingMachine functionality wash");
+}
+static void clean(){;
+System.out.println("WashingMachine functionality clean");
+}
+static void dry(){;
+System.out.println("WashingMachine functionality dry");
+}
+static void waterInlet(){;
+System.out.println("WashingMachine functionality waterInlet);
+}
+static void waterOutlet(){;
+System.out.println("WashingMachine functionality waterOutlet");
+}
+static void efficiency(){;
+System.out.println("WashingMachine functionality efficiency");
+}
+static void quantity(){;
+System.out.println("WashingMachine functionality quantity");
+}
+static void plug(){;
+System.out.println("WashingMachine functionality plug");
+}
+static void pause(){;
+System.out.println("WashingMachine functionality pause");
+}
+static void stop(){;
+System.out.println("WashingMachine functionality stop");
+}
+static void start(){;
+System.out.println("WashingMachine functionality start");
+}
+static void load(){;
+System.out.println("WashingMachine functionality load");
+}
+static void speed(){;
+System.out.println("WashingMachine functionality speed");
+}
+static void cycle(){;
+System.out.println("WashingMachine functionality cycle");
+}
+static void detergentInjector(){;
+System.out.println("WashingMachine functionality detergentInjector");
+}
+static void rorate(){;
+System.out.println("WashingMachine functionality rorate");
+}
+static void time(){;
+System.out.println("WashingMachine functionality time");
+}
+static void quickWash(){;
+System.out.println("WashingMachine functionality quickWash");
+}
+static void deepSteam(){;
+System.out.println("WashingMachine functionality deepSteam");
+}
+static void temperature(){;
+System.out.println("WashingMachine functionality temperature");
+}
+}
