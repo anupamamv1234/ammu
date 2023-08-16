@@ -1,9 +1,21 @@
 package AbstractMain;
 
-public class AirportRunner {
+import Abstract.Airoplane;
+import Abstract.Airport;
 
-	public AirportRunner() {
-		// TODO Auto-generated constructor stub
+public class AirportRunner {
+	public static void main(String[] args) {
+		Airport airport=new Airoplane();
+		airport.baggageHandling();
+		airport.control();
+		airport.emergenchServices();
+		airport.foodServices();
+		airport.hangars();
+		airport.lounges();
+		airport.restaurants();
+		airport.security();
+		airport.taxiWays();
 	}
+
 
 }

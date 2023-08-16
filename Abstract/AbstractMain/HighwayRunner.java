@@ -1,9 +1,20 @@
 package AbstractMain;
 
-public class HighwayRunner {
+import Abstract.Highway;
+import Abstract.NationalHighway;
 
-	public HighwayRunner() {
-		// TODO Auto-generated constructor stub
+public class HighwayRunner {
+	public static void main(String[] args) {
+		System.out.println("Invoking main in highway runner");
+		Highway highway = new NationalHighway();
+		highway.code();
+		highway.distance();
+		highway.highwayMan();
+		highway.petrol();
+		highway.running();
+		highway.system();
+		highway.tollCollection();
+		highway.travel();
 	}
 
 }
